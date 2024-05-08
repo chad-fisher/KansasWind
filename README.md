@@ -1,4 +1,3 @@
-# KansasWind
-Spatial Random Forest Classifier to predict suitable wind turbine locations in Kansas
 
-![image](https://github.com/chad-fisher/KansasWind/assets/150188438/f8165eed-b4dd-467c-9292-37942c9a538c)
+
+![Poster](https://github.com/chad-fisher/KansasWind/assets/150188438/0a5288b4-2294-4ceb-bc47-e8fb189ff23a)
